@@ -1,2 +1,2 @@
-# client 087723668195
-vless://f7f9409a-e5ea-4e36-a239-95c7788dfd9c@support.zoom.us:443?sni=support.zoom.us.violetvpn.biz.id&fp=random&host=support.zoom.us.violetvpn.biz.id&type=ws&security=tls&path=/sg-do&encryption=none#(SG) https://raw.githubusercontent.com/ClayKW/Om-teksan/refs/heads/main/README.md
+# faisal
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InN1cHBvcnQuem9vbS51cy5iaXpuZXQudnBuc3RvcmUyOC5teS5pZCIsImlkIjoiNzIzZTlhMjYtMmE3NS00ZmVkLWIyMmQtZmE5YWM4NWQ2N2EyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoidHJpYWxiaXpuZXQzaGFyaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzdXBwb3J0Lnpvb20udXMuYml6bmV0LnZwbnN0b3JlMjgubXkuaWQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
